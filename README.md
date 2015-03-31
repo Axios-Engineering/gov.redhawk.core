@@ -1,5 +1,7 @@
-# REDHAWK Eclipse Core
- 
+[![Build Status](https://travis-ci.org/Axios-Engineering/gov.redhawk.core.svg?branch=develop-2.0)](https://travis-ci.org/Axios-Engineering/gov.redhawk.core)
+REDHAWK Eclipse Core
+====================
+
 ## Description
 
 This is the core set of plug-ins that make up the REDHAWK IDE and the REDHAWK Explorer Product. 
